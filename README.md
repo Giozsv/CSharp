@@ -1,4 +1,5 @@
-# CSharp c*/.net
+# CSharp c#
+
 - Primeiros passos com Visual Studio:
  *gerando código e debugging*
  
